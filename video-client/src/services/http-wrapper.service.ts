@@ -8,5 +8,5 @@ export class HttpWrapperService {
 
   constructor(private _client: HttpClient) { }
 
-  
+
 }
